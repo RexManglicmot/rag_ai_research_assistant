@@ -1,4 +1,4 @@
-venv_ai_research_assistant
-
 .env
-.DS_Store
+venv_ai_research_assistant
+ __pycache__/
+ *.pdf 

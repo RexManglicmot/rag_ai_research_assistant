@@ -1,0 +1,7 @@
+transformers
+accelerate
+huggingface_hub
+langchain
+pyMuPDF
+python-dotenv
+faiss-cpu
